@@ -38,15 +38,13 @@ color: river
 
 author:
   - name: Public Data Lab
-    logo: "https://www.publicdatalab.org/imgs/publicdatalab-logo.svg"
+    logo: "https://publicdatalab.org/wp-content/uploads/2021/02/pdl-logo.png"
   - name: CNRS Center for Internet and Society
     logo: "https://cis.cnrs.fr/wp-content/uploads/2020/05/cnrscis.png"
   - name: King’s College London
     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/King%27s_College_London_logo.svg/1280px-King%27s_College_London_logo.svg.png"
   - name: University of Amsterdam
     logo: "https://study-eu.s3.amazonaws.com/uploads/university/uva-university-of-amsterdam-533-logo.png"
-  - name: DensityDesign Lab
-    logo: "http://densitydesign.org/wp-content/themes/whiteasmilk/img/logo_density.svg"
   - name: DensityDesign Lab
     logo: "http://densitydesign.org/wp-content/themes/whiteasmilk/img/logo_density.svg"
 
