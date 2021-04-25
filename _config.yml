@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -22,10 +22,10 @@ title: Data Inquiries
 email: tomm.venturini@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Data Inquiries is a Public Data Lab initiative to facilitate generative encounters between institutions teaching critical data literacy and civil society organizations working with data.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+baseurl: "/DataInquiries" # the subpath of your site, e.g. /blog
+url: "https://publicdatalab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
 
 # Build settings
 remote_theme: densitydesign/pdatalab
@@ -52,7 +52,7 @@ author:
 participants:
   - name: Tommaso Venturini
   - name: Jonathan Gray
- 
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
