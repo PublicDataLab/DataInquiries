@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-color: forest
+color: river
 
 author:
   - name: Public Data Lab
