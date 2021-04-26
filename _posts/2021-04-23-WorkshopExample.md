@@ -2,7 +2,7 @@
 layout: post
 title: "Workshop Example: Data Sprints"
 author: Tommaso Venturini
-date:   2021-04-22 00:00:00 +0100
+date:   2021-04-24 00:00:00 +0100
 ---
 A crucial element of the Data Inquiry approach is the collaboration between the expert/apprentice data scientists and the actors engaged in actual societal situations. This collaboration helps the data scientists to consider not only the technical dimension of their intervention, but also the context in which it takes place and the conditions that can make it more than a simple exercise of technical skill. Civil society groups, for their part, will find not only help in the collection and treatment of data, but more importantly a fresh perspective on how their action can exploit digital records.
  
@@ -27,5 +27,5 @@ A careful preparation allows to dedicate as much as possible of the time allotte
 Finally, a greater follow-up than hackathons and barcamps is necessary **after the data sprint**. The ‘quick and dirty’ approach that characterizes the sprinting days should be complemented by an extensive work of refinement and documentation, in order to make sure that the work of the sprint actually bears fruit and generates the desired societal outcomes. Besides following-up on the specific objectives of the spring,  efforts should be invested in making datasets, scripts and visualizations reusable beyond their original projects. Sprints should remain faithful to their open-source roots and ensure that all the data, code and content produced are freely available through open licenses.
  
 A more detailed description of the **data sprint** format can be found here
-[Venturini T, Munk A and Meunier A (2018) Data-Sprint: a Public Approach to Digital Research. In: Lury C, Clough P, Michael M, et al. (eds) *Interdisciplinary Research Methods*. Abingdon: Routledge.](http://www.tommasoventurini.it/wp/wp-content/uploads/2016/08/Venturini_Munk_Jacomy_2016-DataSprints.pdf)
-[Munk AK, Meunier A and Venturini T (2019) Data Sprints: A Collaborative Format in Digital Controversy Mapping. In: Ribes D and Vertesi J (eds) *DigitalSTS A Field Guide for Science & Technology Studies*. Princeton: University Press.](https://hal.archives-ouvertes.fr/hal-02102489/document)
+* [Venturini T, Munk A and Meunier A (2018) Data-Sprint: a Public Approach to Digital Research. In: Lury C, Clough P, Michael M, et al. (eds) *Interdisciplinary Research Methods*. Abingdon: Routledge.](http://www.tommasoventurini.it/wp/wp-content/uploads/2016/08/Venturini_Munk_Jacomy_2016-DataSprints.pdf)
+* [Munk AK, Meunier A and Venturini T (2019) Data Sprints: A Collaborative Format in Digital Controversy Mapping. In: Ribes D and Vertesi J (eds) *DigitalSTS A Field Guide for Science & Technology Studies*. Princeton: University Press.](https://hal.archives-ouvertes.fr/hal-02102489/document)
