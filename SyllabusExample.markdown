@@ -43,8 +43,10 @@ To promote a richer and more realistic approach to "data literacy", this course 
 * **In preparation for the class**, read this syllabus carefully and prepare at least one question about the course.
 * **During the class**, we will present the objectives of the course, its pedagogical approach and its expectations in terms of effort during and between the classes. We will also introduce the potentials, but also the risks of the social use of data and computational methods.
 
-#### Class 2 - “An Engine not a Camera”, the consequences of categorization and quantification
+#### TEST Class 2 - “An Engine not a Camera”, the consequences of categorization and quantification
 * **In preparation for the class**, read and prepare to discuss one of the following texts:\\
+
+
 	* Desrosières A (1990) How to Make Things Which Hold Together : Social Science, Statistics and the State in *Discourses On Society*. Dordrecht: Kluwer Academic Publishers.
 	* Bowker GC and Star SL (1999). “The Case of Race Classification and Reclassification under Apartheid” in *Sorting Things Out: Classification and Its Consequences*. Cambridge Mass: MIT Press.
 	* Porter TM (1995). “How social numbers are made valid” in *Trust in Numbers*. The Pursuit of Objectivity in Science and Public Life. Princeton: University Press.
