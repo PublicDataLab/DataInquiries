@@ -5,6 +5,9 @@
 layout: home
 ---
 
+[Course Structure](#course-structure)\\
+[Pedagogical Approach](#pedagogical-approach)\\
+
 **Data Inquiries**  proposes a new way to do computational social science and to teach data literacy. It suggests, in particular, to shift the attention away from data and technologies and to the social and political implications of data science.
  
 The usual approach, based on test cases, standard datasets and pre-defined challenges effectively hides the complexity that lies upstream and downstream most data projects:
