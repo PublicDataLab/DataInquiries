@@ -5,10 +5,10 @@
 layout: home
 ---
 
-### [Course Structure](ProjectExample.html) ###
-### [Course Structure](WorkshopExample.html) ###
-### [Course Structure](SyllabusExample.html) ###
-### [Course Structure](Clearinghouse.html) ###
+#### [Project Example: The Fake News Field Guide](ProjectExample.html) ####
+#### [Workshop Example: Data Sprints](WorkshopExample.html) ###
+#### [Syllabus Example: the Data Enquiry Course](SyllabusExample.html) ####
+#### [Projects clearinghouse/greenhouse](Clearinghouse.html) ####
 
 **Data Inquiries**  proposes a new way to do computational social science and to teach data literacy. It suggests, in particular, to shift the attention away from data and technologies and to the social and political implications of data science.
  
