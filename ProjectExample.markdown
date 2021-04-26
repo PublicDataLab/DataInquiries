@@ -1,3 +1,3 @@
-layout: page
+layout: post
 ---
 TEXT DESCRIBING THE FAKE NEWS FIELD GUIDE PROJECT

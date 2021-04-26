@@ -1,4 +1,4 @@
-layout: page
+layout: post
 ---
 This course explores the consequences of the digital traceability of collective phenomena with a **critical and empirical approach**. Considering a variety of computational methods, it offers first-hand experience of digital quantification, examining its potential, but also its shortcomings and biases. Students will learn techniques of data collection, corpus cleaning, exploratory analysis, network analysis, natural language processing, artificial intelligence, and information visualization. Working in groups, they will apply these techniques to actual societal situations. Through this experience, they will be led to consider reflexively the insights of the transdisciplinary field of critical data studies.
 
