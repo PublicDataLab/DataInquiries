@@ -18,4 +18,3 @@ A **typical inquiry idea** will be proposed by a civil society organisation (e.g
  
 * The names of the reference-persons for the inquiry at the civil society organisation and details on how to contact them and start a conversation about possible collaborations.
  * Using the example of the "Fake News Field Guide"...*
-S
