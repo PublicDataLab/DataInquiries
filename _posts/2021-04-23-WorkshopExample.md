@@ -2,7 +2,7 @@
 layout: post
 title: "Workshop Example: Data Sprints"
 author: Tommaso Venturini
-date:   2021-04-24 00:00:00 +0100
+date:   2021-04-23 00:00:00 +0100
 ---
 A crucial element of the Data Inquiry approach is the collaboration between the expert/apprentice data scientists and the actors engaged in actual societal situations. This collaboration helps the data scientists to consider not only the technical dimension of their intervention, but also the context in which it takes place and the conditions that can make it more than a simple exercise of technical skill. Civil society groups, for their part, will find not only help in the collection and treatment of data, but more importantly a fresh perspective on how their action can exploit digital records.
  

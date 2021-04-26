@@ -2,7 +2,7 @@
 layout: post
 title: "Projects clearinghouse/greenhouse"
 author: Tommaso Venturini
-date:   2021-04-24 00:00:00 +0100
+date:   2021-04-21 00:00:00 +0100
 ---
 Besides providing resources for organising data sprints and teaching data literacy through a societally situated approach, the website of Data Inquiries will also serve as a space for generative encounters between students, data scientists and civil society groups.
  
