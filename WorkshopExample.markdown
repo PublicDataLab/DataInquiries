@@ -1,5 +1,7 @@
-layout: post
+
 ---
+# Workshop Example: Data Sprints #
+
 A crucial element of the Data Inquiry approach is the collaboration between the expert/apprentice data scientists and the actors engaged in actual societal situations. This collaboration helps the data scientists to consider not only the technical dimension of their intervention, but also the context in which it takes place and the conditions that can make it more than a simple exercise of technical skill. Civil society groups, for their part, will find not only help in the collection and treatment of data, but more importantly a fresh perspective on how their action can exploit digital records.
  
 In the first phases of a project, the collaboration between data scientists and civil society organisations can happen remotely and asynchronously, by an exchange of email that allows to initiate a dialogue and converge to a shared definition of a possible joint project. Yet, the experience has taught us that the best format to actually carry out the bulk of the collaboration is an intensive time-boxed workshop, where the two groups are present and work together (if possible, in the physical presence of one another) for at least 2 or 3 days and, if possible, for an entire week.

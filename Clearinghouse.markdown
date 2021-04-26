@@ -1,5 +1,7 @@
-layout: post
+
 ---
+# Projects clearinghouse/greenhouse #
+
 Besides providing resources for organising data sprints and teaching data literacy through a societally situated approach, the website of Data Inquiries will also serve as a space for generative encounters between students, data scientists and civil society groups.
  
 More specifically the website is meant to function as a clearinghouse where societal actors can describe the objectives of their data projects and define the kind of contribution they seek and where students and experts can find occasion for practicing data science and alpha-users for their techniques. 

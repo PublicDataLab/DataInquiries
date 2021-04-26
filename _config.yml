@@ -34,13 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-color: river
-
-pages:
-  - name: Public Data Lab
-    logo: "https://publicdatalab.org/wp-content/uploads/2021/02/pdl-logo.png"
-  - name: CNRS Center for Internet and Society
-    logo: "https://cis.cnrs.fr/wp-content/uploads/2020/05/cnrscis.png"
+color: rivers
 
 author:
   - name: Public Data Lab
