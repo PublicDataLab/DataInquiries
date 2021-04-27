@@ -10,7 +10,7 @@ layout: home
 * #### [Syllabus Example: the Data Enquiry Course](SyllabusExample.html) ####
 * #### [Projects clearinghouse/greenhouse](Clearinghouse.html) ####
 
-![diagram representing the Data Inquiries approach](image/HomeDiagram.png)!
+![diagram representing the Data Inquiries approach](img/HomeDiagram.png)
 
 **Data Inquiries**  proposes a new way to do computational social science and to teach data literacy. It suggests, in particular, to shift the attention away from data and technologies and to the social and political implications of data science.
  
