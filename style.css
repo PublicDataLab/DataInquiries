@@ -1,6 +1,6 @@
 
 #cover {
-    height: 50 vh;
+    height: 30 vh;
     background-image: url("img/DataInquiriesLogo.png");
     background-size: 90%;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@
 
 
 #cover .post-title {
-    font-size: 90px;
+    font-size: 160px;
     font-family: "garamond", "times", serif;
     font-weight: bold;
 }
