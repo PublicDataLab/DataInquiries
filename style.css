@@ -8,12 +8,15 @@
     text-transform: capitalize;
 }
 
-
 #cover .post-title, h1 {
     font-size: 120px;
     font-family: "garamond", "times", serif;
     font-weight: bold;
 }
+
+#home img {
+	position:initial;
+	}
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
     margin-bottom: 18px;
