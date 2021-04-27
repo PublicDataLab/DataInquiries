@@ -1,5 +1,8 @@
 #cover {
 	background-color: #FF0000;
-	background: 50% 50% no-repeat url("img/DataInquiriesLogo.png");
+	background-image: url("img/DataInquiriesLogo.png");
+	background-size: cover;
+	background-repeat:no-repeat;
 	background-position:10% 10%;
+
 }
