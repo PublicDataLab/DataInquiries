@@ -15,6 +15,7 @@ layout: home
 The usual approach, based on test cases, standard datasets and pre-defined challenges effectively hides the complexity that lies upstream and downstream most data projects:
 * **Upstream**, in the task of matching the data available (or obtainable) to research questions and social interventions that are actually useful for society.
 * **Downstream**, in the consideration of the political consequences of managing social phenomena through their computational representation.
+
 Bracketing out of such complications facilitates the development of technical solutions and the learning of technical skills, yet it also disconnects data sciences from its *social conditions and consequences*.
  
 Data Inquiries draw attention to the *social life of data* both conceptually and practically:
