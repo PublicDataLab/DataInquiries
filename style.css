@@ -1,8 +1,16 @@
-#cover {
-	background-color: #FF0000;
-	background-image: url("img/DataInquiriesLogo.png");
-	background-size: cover;
-	background-repeat:no-repeat;
-	background-position:10% 10%;
 
+#cover {
+    height: 50 vh;
+    background-image: url("img/DataInquiriesLogo.png");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: 30px 10px;
+    text-transform: capitalize;
+}
+
+
+#cover .post-title {
+    font-size: 90px;
+    font-family: "garamond", "times", serif;
+    font-weight: bold;
 }
