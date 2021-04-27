@@ -9,16 +9,22 @@
 }
 
 
-#cover .post-title {
+#cover .post-title, h1 {
     font-size: 120px;
     font-family: "garamond", "times", serif;
     font-weight: bold;
 }
 
-ul, p, li, h4 {
-	margin-bottom: 10px;
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+li {
+	margin-bottom: 5px;
+	margin-top: 5px;
 }
 
 h1 {
-	margin-top: 20px;
+	font-size: 60px;
 }
