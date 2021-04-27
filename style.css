@@ -14,3 +14,7 @@
     font-family: "garamond", "times", serif;
     font-weight: bold;
 }
+
+ul {
+	margin-bottom: 10px;
+}
