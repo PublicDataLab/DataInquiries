@@ -43,7 +43,7 @@ To promote a richer and more realistic approach to "data literacy", this course 
 * **In preparation for the class**, read this syllabus carefully and prepare at least one question about the course.
 * **During the class**, we will present the objectives of the course, its pedagogical approach and its expectations in terms of effort during and between the classes. We will also introduce the potentials, but also the risks of the social use of data and computational methods.
 
-#### TEST Class 2 - “An Engine not a Camera”, the consequences of categorization and quantification
+#### Class 2 - “An Engine not a Camera”, the consequences of categorization and quantification
 * **In preparation for the class**, read and prepare to discuss one of the following texts:
 
 
