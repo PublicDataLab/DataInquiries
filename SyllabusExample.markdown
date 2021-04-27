@@ -78,7 +78,8 @@ To promote a richer and more realistic approach to "data literacy", this course 
 	* Gabrys J, Pritchard H and Barratt B (2016). Just good enough data: Figuring data citizenships through air pollution sensing and data stories. *Big Data & Society* 3 (2).
 	* Gray J, Lämmerhirt D and Bounegru L (2016). Changing what counts. *DataShift*: 52. 
 * **During the class**, discussing the above texts, we will consider the forms of resistance emerging in our societies against the dominant quantification mechanisms and we will reflect on how to draw inspiration from these efforts in our data inquiries.
-* **After the class**, choose an inquiry idea among those offered in the Data Inquiries’ clearing/green-house.
+* **After the class**, choose an inquiry idea among those offered in the [Data Inquiries clearing/green-house](Clearinghouse.html).
+
 
 ### Part II - Digital, computational and qualitative-quantitative methods
 
@@ -119,7 +120,7 @@ To promote a richer and more realistic approach to "data literacy", this course 
 * **In preparation for the class**, read:
 
 
-	* Venturini T, Jacomy M and Jensen P (2020) What do we See when We Look at Networks. An Introduction to Visual Network Analysis and Force-Directed Layouts. *Big Data & Society* (fothcoming).
+	* Venturini T, Jacomy M and Jensen P (2020) What do we See when We Look at Networks. An Introduction to Visual Network Analysis and Force-Directed Layouts. *Big Data & Society* (forthcoming).
 * **During the class**, we will learn to analyze a relational dataset. We will introduce the basics of social network analysis and complex network analysis and the metrics of graph theory. We will also experiment with Table2net (medialab.github.io/table2net) and Gephi (gephi.org)
 * **After the class**, use Table2net to extract one or more networks from your dataset. Use Gephi to generate one or more images of your network. For each, write a detailed caption explaining how to read/interpret it.
 
@@ -164,7 +165,7 @@ To promote a richer and more realistic approach to "data literacy", this course 
 ####Presentation of the results of group projects
 In this class, the students will present the results of their investigation and their strategy to make them public and actionable in society. Civil society actors concerned by the projects will be invited to participate in discussion.
 
-## Evaluation
+## Evaluation ##
 The course grade is the average of the three grades received by students in each part of the course:
 1. The evaluation for the first part of the course is an individual grade. Students are evaluated on their understanding of the texts (60%) and their engagement in the discussion (40%).
 2. The evaluation for the second part is a collective grade on the various statistical and visual analyses produced by each group. Groups are evaluated for their punctuality in handing in the various exercises (40%) and by the quality and richness of their results (60%).
