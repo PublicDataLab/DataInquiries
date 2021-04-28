@@ -22,7 +22,7 @@ title: Data Inquiries
 email: tomm.venturini@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Data Inquiries is a Public Data Lab initiative to facilitate generative encounters between institutions teaching critical data literacy and civil society organizations working with data.
-baseurl: "/DataInquiries" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://publicdatalab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
