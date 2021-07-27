@@ -12,7 +12,7 @@ layout: home
 
 ![diagram representing the Data Inquiries approach](img/HomeDiagram.png)
 
-**Data Inquiries**  proposes a new way to do research with data and to teach data literacy. It suggests, in particular, to shift the attention away from data and technologies and to the social and political implications of data research.
+With the support of the EU project [SoBigData++](http://www.sobigdata.eu), **Data Inquiries**  proposes a new way to do research with data and to teach data literacy. It suggests, in particular, to shift the attention away from data and technologies and to the social and political implications of data research.
  
 The usual approach, based on test cases, standard datasets and pre-defined challenges effectively hides the complexity that lies upstream and downstream most data projects:
 * **Upstream**, in the task of matching the data available (or obtainable) to research questions and social interventions that are actually useful for society.
