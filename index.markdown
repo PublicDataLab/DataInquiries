@@ -31,4 +31,7 @@ Data Inquiries is a *Public Data Lab* initiative to support the encounter betwee
  
 This website is meant to grow into a resource center for the Data Inquiries approach and to host a clearinghouse for socially relevant data projects.
 
+Data Inquiries is a project by ![SoBigData++](img/logo-SoBigData.png)
+
+
 
